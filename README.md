@@ -14,4 +14,4 @@ codes.ini is a map with predefined codes for every digital train:
 codes.ini defines which command to send via Z21 when various feedbacks happens
 
 How to start:
-php client.php, open http://127.0.0.1 in browser, click the place the train should go.
+php client.php, put HTML folder on your webserver, open http://127.0.0.1 in browser, click the place the train should go.
