@@ -1,4 +1,4 @@
-# roco_z21_dispatcher
+# roco_z21_dispatcher for restaurant
 Software for dispatching trains
 
 This software is used to dispatchering roco trains via Z21 controller. 
@@ -14,6 +14,4 @@ codes.ini is a map with predefined codes for every digital train:
 codes.ini defines which command to send via Z21 when various feedbacks happens
 
 How to start:
-php client.php
-open http://127.0.0.1 in browser
-click on object and define train number
+php client.php, open http://127.0.0.1 in browser, click the place the train should go.
